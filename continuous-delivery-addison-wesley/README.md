@@ -1,0 +1,1 @@
+https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0/ref=sr_1_1?_encoding=UTF8&dchild=1&keywords=Continuous+Delivery%3A+Reliable+Software+Releases+through+Build%2C+Test%2C+and+Deployment+Automation+%28Addison-Wesley+Signature+Series+%28Fowler%29%29&qid=1586101506&s=digital-text&sr=1-1
